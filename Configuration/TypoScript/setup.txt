@@ -1,0 +1,5 @@
+page {
+   includeCSS {
+      theme2 = EXT:adico_bleu/Resources/Gabarit/Less/Decouverte.css
+  }
+}

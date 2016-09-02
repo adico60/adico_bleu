@@ -26,7 +26,7 @@ $EM_CONF[$_EXTKEY] = array (
 	array (
 		'depends' => 
 		array (
-			'bootstrap_package' => '6.2.9-6.99.99',
+			'bootstrap_package' => '6.2.9-7.99.99',
 		),
 		'conflicts' => 
 		array (
